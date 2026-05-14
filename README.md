@@ -44,7 +44,7 @@ Giả sử mod:
 ThacoCruizer.scs
 ```
 
-Dùng script `.bms` phù hợp rồi chạy:
+Dùng script `.bms` phù hợp rồi chạy (Script có thể download từ SourceCode file 'scs.bms':
 
 ```bash
 quickbms.exe script.bms ThacoCruizer.scs output
